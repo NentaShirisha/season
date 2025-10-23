@@ -1,0 +1,6 @@
+Flask==2.3.3
+SQLAlchemy==2.0.22
+Flask-SQLAlchemy==3.0.3
+pandas==2.2.3
+python-dateutil==2.8.2
+pytest==7.4.2
