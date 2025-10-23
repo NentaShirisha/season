@@ -1,4 +1,4 @@
-# Predictive Demand Forecasting & Automated Reorder
+# Predictive Demand Forecasting & Automated Reorder(TEAM NAME: HapiVet)
 
 Mechanism:AI analyzes dispensing data, seasonality (e.g., higher demand for heartworm medication in summer), and lead times from suppliers to predict future demand. It automatically generates and sends purchase orders to suppliers when stock levels are projected to drop below a safety threshold.
 
@@ -28,4 +28,5 @@ API
 
 Notes
 - This is a minimal prototype. For production, add authentication, input validation, and deployment configuration.
+
 
