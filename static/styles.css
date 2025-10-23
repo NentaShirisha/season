@@ -1,0 +1,5 @@
+body { background:#f6f8fa; }
+.navbar-brand{ font-weight:600 }
+.page{ margin-top:16px }
+#uploadStatus{ margin-top:8px }
+.table-responsive{ max-height:420px; overflow:auto }
