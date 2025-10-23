@@ -1,4 +1,6 @@
-# Seasonal Medicine Predictor
+# Predictive Demand Forecasting & Automated Reorder
+
+Mechanism:AI analyzes dispensing data, seasonality (e.g., higher demand for heartworm medication in summer), and lead times from suppliers to predict future demand. It automatically generates and sends purchase orders to suppliers when stock levels are projected to drop below a safety threshold.
 
 Minimal full-stack app to track past seasonal medicine usage and predict future seasonal requirements.
 
@@ -26,3 +28,4 @@ API
 
 Notes
 - This is a minimal prototype. For production, add authentication, input validation, and deployment configuration.
+
